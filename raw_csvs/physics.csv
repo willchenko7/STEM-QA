@@ -1,0 +1,23 @@
+"If a car accelerates uniformly from 20 m/s to 50 m/s in 10 seconds, what is its acceleration?" --> "The acceleration is 3 m/s^2.",
+"A stone is dropped from a height of 80 meters. How long does it take to hit the ground?" --> "It takes approximately 4.04 seconds.",
+"If a 5 kg object experiences a net force of 25 N, what is its acceleration?" --> "The acceleration is 5 m/s^2.",
+"An object is moving with a velocity of 10 m/s and comes to a stop over a distance of 20 meters. What is its acceleration?" --> "The deceleration is -0.25 m/s^2.",
+"In an LC circuit with a capacitance of 2 microfarads and an inductance of 0.5 Henry, what is the resonant frequency?" --> "The resonant frequency is approximately 318.31 Hz.",
+"A 60 W bulb is connected to a 220 V supply. What is the current flowing through it?" --> "The current is approximately 0.273 A.",
+"A pendulum has a length of 1 meter. What is its period of oscillation on Earth?" --> "The period is approximately 2.01 seconds."
+"If a car moves with a constant speed of 60 km/h for 2 hours, how far does it travel?" --> "The car travels 120 km.",
+"A force of 20 N acts on a 2 kg block on a frictionless surface. What is the block's acceleration?" --> "The acceleration is 10 m/s^2.",
+"An object is projected vertically upwards with a velocity of 20 m/s. How high does it reach before coming to a stop?" --> "It reaches a height of approximately 20.4 meters.",
+"If a wave has a frequency of 50 Hz and a speed of 340 m/s, what is its wavelength?" --> "The wavelength is 6.8 meters.",
+"A converging lens has a focal length of 10 cm. If an object is placed 20 cm away from the lens, where is the image formed?" --> "The image is formed 10 cm away from the lens.",
+"If the efficiency of an engine is 60% and it consumes 100 J of energy, how much useful work does it produce?" --> "It produces 60 J of useful work.",
+"A coil has a resistance of 5 ohms and an inductance of 0.1 Henry. If connected to a 220 V, 50 Hz supply, what is the inductive reactance?" --> "The inductive reactance is approximately 31.42 ohms.",
+"A box is pushed with a force of 100 N at an angle of 30 degrees to the horizontal. How much of this force is acting horizontally?" --> "The horizontal force is approximately 86.60 N."
+"If a metal rod expands by 2 mm when heated from 25°C to 75°C, what is its coefficient of linear expansion?" --> "The coefficient of linear expansion is 1 x 10^-5 /°C.",
+"In an optical fiber, light travels with a speed of 2 x 10^8 m/s. If the speed of light in a vacuum is 3 x 10^8 m/s, what is the refractive index of the optical fiber?" --> "The refractive index is 1.5.",
+"A proton moves in a circular path of radius 0.5 meters in a magnetic field of 0.2 Tesla. If the charge of a proton is 1.6 x 10^-19 Coulombs, what is its speed?" --> "The speed is approximately 3.2 x 10^7 m/s.",
+"A monochromatic light of wavelength 600 nm falls on a double slit separated by 0.1 mm. At what distance on the screen 2 meters away will the first bright fringe appear?" --> "The distance is approximately 1.2 mm from the center.",
+"If a gas expands at constant pressure from 5 liters to 15 liters while absorbing 300 J of heat, what is the work done by the gas?" --> "The work done by the gas is 300 J.",
+"A sample of radioactive material has a half-life of 5 years. If you start with 100 grams, how much will remain after 15 years?" --> "12.5 grams will remain.",
+"In a photoelectric experiment, light of frequency 8 x 10^14 Hz ejects electrons with a maximum kinetic energy of 2.5 x 10^-19 J. What is the work function of the material?" --> "The work function is approximately 2 x 10^-19 J.",
+"If a Carnot engine operates between temperatures of 300 K and 600 K, what is its efficiency?" --> "The efficiency is 50%."
